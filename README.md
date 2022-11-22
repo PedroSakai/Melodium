@@ -3,7 +3,7 @@ Melodium - recomendação musical
 
 Grupo: Pedro Sakai (RA 20151) Luiza Viana (RA 20145) Júlia Lopes (RA 20140)
 
-Descrição:
+Descrição: software de recomedação musical a partir das caracteristicas da canção escolhida, como bpm, valência, acústico, etc.
 
 Como executar:
 
