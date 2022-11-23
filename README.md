@@ -9,7 +9,7 @@ Como executar:
 
   AVISO: Para executar o software é preciso ter o Node.js instalado!
 
-  1) Baixar o arquivo compactado 'Software Compactado.zip' ou salvar os arquivos da pasta 'Melodium' na máquina.
+  1) Baixar o arquivo compactado 'Software Compactado.zip' e o extrair em sua máquina.
 
   2) Abrir o terminal na pasta 'Melodium', executar 'npm install', depois executar 'npm install node-fetch@2.6.1'.
 
